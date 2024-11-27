@@ -1,0 +1,186 @@
+
+.header-bar {
+  padding-top: 10px;
+}
+
+.header-bar a {
+  color: #800000;
+  text-decoration: none;
+  padding: 0 5px;
+  font-size: 11px;
+}
+
+.header-bar a:hover {
+  text-decoration: underline;
+}
+
+.logo {
+  width: 170px;
+  transform: translateY(-30px);
+}
+
+.university-name {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  transform: translateY(-25px);
+}
+
+.tagline {
+  font-size: 14px;
+  color: #808080;
+  transform: translateY(-25px);
+}
+
+.faculty-bar {
+  background-color: #800000; 
+  color: white;
+  padding: 10px 0;
+  transform: translateY(-50px);
+  
+}
+
+.faculty-bar a {
+  color: white;
+  text-decoration: none;
+  margin-right: 30px;
+  font-size: 12px;
+}
+
+.faculty-bar a:hover {
+  text-decoration: underline;
+}
+
+#carouselExampleIndicators {
+  width: 80%; 
+  height: 40vh; 
+  margin: 0 auto; 
+  transform: translateY(-40px);
+}
+
+
+#carouselExampleIndicators .carousel-inner {
+  height: 100%; 
+}
+
+#carouselExampleIndicators .carousel-item {
+  height: 100%; 
+}
+
+#carouselExampleIndicators .carousel-item img {
+  width: 100%; 
+  height: 100%; 
+  object-fit: cover; 
+}
+
+/* main */
+
+main{
+  width: 82%;
+  margin: auto;
+  margin-top: -40px;
+}
+
+
+.bordered-section {
+  padding: 15px;
+  margin-bottom: 20px;
+  background-color: #f2f2f2;
+  border-top: 5px solid #a00000;
+  font-family: Khmer OS Battambong;
+}
+
+.bordered-section h5{
+  font-size: 12px;
+}
+
+.bordered-section a{
+  font-size: 11px;
+  color: #a00000;
+}
+.yellow-box {
+  background-color: #fffacc;
+  border: 1px solid #f0c000;
+  padding: 29px;
+  text-align: center;
+}
+
+.yellow-box img{
+  height: 100px;
+}
+
+.scholarship-section {
+  /* list-style-type: none; */
+  padding-left: 30px;
+
+}
+
+.scholarship-section a{
+  color: #a00000;
+  text-decoration: none;
+  font-size: 13px;
+}
+
+.scholarship-section li {
+  margin-bottom: 10px;
+}
+
+li small{
+  font-size: 11px; 
+  transform: translateY(-10px);
+}
+
+
+.bordered-section {
+  border: 1px solid #a00000;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.bordered-section .UNIVERSITY_NEWS img{
+  width: 10%;
+}
+
+
+.overview-section {
+  background-color: #f4f4f4;
+  text-align: center;
+  padding: 20px;
+  
+
+.overview-section h5 {
+  margin-top: 15px;
+}
+.row.text-center{
+  justify-content: center;
+  display: flex;
+}
+}
+
+.stats-icons {
+  font-size: 2rem;
+  color: #4caf50;
+}
+
+.subscribe-section {
+  background-color: #e9ecef;
+  padding: 20px;
+}
+
+.subscribe-section input {
+  margin-right: 10px;
+}
+.subscribe-section button{
+  background-color: #800000;
+}
+
+footer hr{
+  height: 100px;
+  background-color: #800000;
+}
+
+
+
+
+
+
